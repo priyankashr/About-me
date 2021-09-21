@@ -1,0 +1,90 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 150%;
+
+}
+
+h1 {
+  font-size: 4rem;
+  line-height: 1;
+  margin: 50px auto 50px auto;
+  font-family: 'Sacramento', cursive;
+  color: #628395;
+
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color: #476072;
+  font-weight: bold;
+  line-height: 2;
+
+
+
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #628395;
+  font-size: 1.5rem;
+}
+
+.top-container {
+  background-color: #F3F1F5;
+  position: relative;
+  padding-top: 100px;
+  line-height: 1.5;
+
+}
+
+.myimage{
+width: 230px;
+}
+
+.profile{
+  margin: 100px auto 100px auto;
+  width: 50%;
+
+}
+
+.skill{
+  width:40%;
+  float:left;
+  margin-right: 30px;
+}
+
+.music{
+  width: 250px;
+  float:right;
+  margin-left: 30px
+}
+/*
+.middle-container{
+
+}
+
+.bottom-container{
+
+}
+ */
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 50px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.skill-row{
+   width: 50%;
+   margin: 100px auto 100px auto;
+   line-height: 1.3;
+}
